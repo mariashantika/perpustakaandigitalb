@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Verity](ebook/Verity.pdf) – Colleen Hoover (2018)
 9. [Trust Fall](ebook/Trust_Fall.pdf) – Lynn Painter (2026)
 10. [Sunrise on the Reaping](ebook/Sunrise_on_the_Reaping.pdf) – Suzanne Collins (2025)
+11. [The Midnight Library](ebook/The_midnight_library.pdf) – Matt Haig (2020)
 ---
 *Powered by GitHub Pages*

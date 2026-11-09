@@ -8,9 +8,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [Bumi](ebook/Bumi.pdf) – Tere Liye (2014)
 5. [Hujan](ebook/Hujan.pdf) – Tere Liye (2016)
 6. [Harry_Potter_and the_Chamber_of_Secrets](ebook/Harry_Potter_and_the_Chamber_of_Secrets.pdf) – J.K. Rowling (1998)
-7. [Harry Potter and the Philosophers](ebook/Harry Potter and the Philosopers.pdf) – J.K. Rowling (1997)
+7. [Harry Potter and the Philosophers](ebook/Harry_Potter_and_the_Philosopers.pdf) – J.K. Rowling (1997)
 8. [Verity](ebook/Verity.pdf) – Colleen Hoover (2018)
-9. [Trust Fall](ebook/Trust Fall.pdf) – Lynn Painter (2026)
-10. [Sunrise on the Reaping](ebook/Sunrise on the Reaping.pdf) – Suzanne Collins (2025)
+9. [Trust Fall](ebook/Trust_Fall.pdf) – Lynn Painter (2026)
+10. [Sunrise on the Reaping](ebook/Sunrise_on_the_Reaping.pdf) – Suzanne Collins (2025)
 ---
 *Powered by GitHub Pages*

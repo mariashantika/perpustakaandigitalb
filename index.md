@@ -13,5 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Trust Fall](ebook/Trust_Fall.pdf) – Lynn Painter (2026)
 10. [Sunrise on the Reaping](ebook/Sunrise_on_the_Reaping.pdf) – Suzanne Collins (2025)
 11. [The Midnight Library](ebook/The_Midnight_Library.pdf) – Matt Haig (2020)
+12. [Maria Shantika Ekayanti_13040124130063](ebook/Maria Shantika Ekayanti_13040124130063) – Maria (2026) 
 ---
 *Powered by GitHub Pages*
